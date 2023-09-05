@@ -2,7 +2,7 @@ CONCEPT USED :
  Method we used to implement the project is "HALF-DUPLEX"
 
 ABOUT TEAM AND PROJECT :
- This is a project from Rithvik S and Shameer K , based on the "Crypto" currency which tells the coin name and the current change in percentage
+ This is a project based on the "Crypto" currency which tells the coin name and the current change in percentage
  in its value using an API as per user wish ,which is like a API and refreshes automatically after a certain period if time 
 
  PACKAGES USED :
